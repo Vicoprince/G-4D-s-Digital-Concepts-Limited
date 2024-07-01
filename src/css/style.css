@@ -617,7 +617,7 @@ a:focus {
 }
 
 .newsletter-button {
-  background-color: #5785A0; /* Steel blue background */
+  background-color: #A09857;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -627,7 +627,7 @@ a:focus {
 }
 
 .newsletter-button:hover {
-  background-color: #00204a; /* Lighter steel blue on hover */
+  background-color: #7F7545;
   transition: all .3s ease-in-out;
 }
 

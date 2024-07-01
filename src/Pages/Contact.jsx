@@ -15,7 +15,7 @@ const Contact = () => {
           <div class="container-fluid">
             <nav class="navbar navbar-expand-lg custom_nav-container ">
               <a class="navbar-brand" href="/">
-                <span>G & 4D's Digital Concepts Limited</span>
+                <img src="./images/g4d_logo2.png" alt="G & 4D's Digital Concepts Limited"/>
               </a>
 
               <button
@@ -32,32 +32,32 @@ const Contact = () => {
 
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav  ">
-                  <li class="nav-item">
-                    <Nav.Link class="nav-link" href="/">
-                      HOME
-                    </Nav.Link>
-                  </li>
-                  <li class="nav-item">
-                    <Nav.Link class="nav-link" href="/about">
-                      Who We Are
-                    </Nav.Link>
-                  </li>
-                  <li class="nav-item">
-                    <Nav.Link class="nav-link" href="/our-services">
-                      What We Do
-                    </Nav.Link>
-                  </li>
-                  <li class="nav-item">
-                    <Nav.Link class="nav-link" href="/why-us">
-                      Why Us
-                    </Nav.Link>
-                  </li>
-                  <li class="nav-item">
-                    <Nav.Link class="nav-link" href="/contact-us">
-                      Contact
-                    </Nav.Link>
-                  </li>
-                </ul>
+                <li class="nav-item">
+                  <Nav.Link class="nav-link" href="/">
+                    HOME
+                  </Nav.Link>
+                </li>
+                <li class="nav-item">
+                  <Nav.Link class="nav-link" href="/about">
+                    About us
+                  </Nav.Link>
+                </li>
+                <li class="nav-item">
+                  <Nav.Link class="nav-link" href="/our-services">
+                    services
+                  </Nav.Link>
+                </li>
+                <li class="nav-item">
+                  <Nav.Link class="nav-link" href="/why-us">
+                    Why Us
+                  </Nav.Link>
+                </li>
+                <li class="nav-item">
+                  <Nav.Link class="nav-link" href="/contact-us">
+                    Contact
+                  </Nav.Link>
+                </li>
+              </ul>
               </div>
             </nav>
           </div>

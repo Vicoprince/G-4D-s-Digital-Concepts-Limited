@@ -116,6 +116,7 @@ a:focus {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background: linear-gradient(130deg, #231a6f, #7F7545);
 
   .hero_bg_box {
     position: absolute;
@@ -169,10 +170,12 @@ a:focus {
 }
 
 .navbar-brand {
-  span {
-    font-weight: bold;
-    font-size: 18px;
-    color: $white;
+  img {
+    // font-weight: bold;
+    // font-size: 18px;
+    // color: $white;
+    height: 66px;
+    mix-blend-mode: color-dodge;
   }
 }
 
@@ -287,6 +290,7 @@ a:focus {
   align-items: center;
   position: relative;
   padding: 45px 0 145px 0;
+  // background-color: #00204a;
 
   .row {
     align-items: center;
@@ -325,7 +329,7 @@ a:focus {
       }
 
       .btn1 {
-        @include hero_btn($secondary1, $white, 10px, 15px, 0);
+        @include hero_btn($primary1, $white, 10px, 15px, 0);
       }
 
       .btn2 {
@@ -440,7 +444,7 @@ a:focus {
     margin-top: 45px;
 
     a {
-      @include hero_btn($secondary1, $white, 10px, 45px, 0);
+      @include hero_btn($primary1, $white, 10px, 45px, 0);
     }
   }
 }
@@ -450,7 +454,7 @@ a:focus {
 // Mission section start
 .mission_section {
   position: relative;
-  background-color: $primary2;
+  background-color: $secondary2;
   color: $white;
 
   .box {
@@ -517,7 +521,7 @@ a:focus {
 
 // about section
 .about_section {
-  background-color: $primary2;
+  background-color: #00204a;
   color: $white;
 
   .heading_container {
@@ -545,7 +549,7 @@ a:focus {
     }
 
     .btn-link {
-      @include hero_btn($secondary1, $white, 10px, 45px, 0px);
+      @include hero_btn($primary1, $white, 10px, 45px, 0px);
       margin-top: 15px;
     }
   }
@@ -580,7 +584,7 @@ a:focus {
     }
 
     .btn-link {
-      @include hero_btn($secondary1, $white, 10px, 45px, 0px);
+      @include hero_btn($primary1, $white, 10px, 45px, 0px);
       margin-top: 15px;
     }
   }
@@ -662,7 +666,7 @@ a:focus {
 
 .team_section {
   text-align: center;
-  background-color: $primary2;
+  background-color: $secondary2;
   color: $white;
 
   .heading_container {
@@ -815,7 +819,6 @@ a:focus {
 
 // info section
 .info_section {
-  background-color: $primary2;
   color: $white;
   padding: 45px 0 15px 0;
 

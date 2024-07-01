@@ -14,7 +14,10 @@ const WhyUs = () => {
           <div class="container-fluid">
             <nav class="navbar navbar-expand-lg custom_nav-container ">
               <a class="navbar-brand" href="/">
-                <span>G & 4D's Digital Concepts Limited</span>
+                <img
+                  src="./images/g4d_logo2.png"
+                  alt="G & 4D's Digital Concepts Limited"
+                />
               </a>
 
               <button
@@ -38,12 +41,12 @@ const WhyUs = () => {
                   </li>
                   <li class="nav-item">
                     <Nav.Link class="nav-link" href="/about">
-                      Who We Are
+                      About us
                     </Nav.Link>
                   </li>
                   <li class="nav-item">
                     <Nav.Link class="nav-link" href="/our-services">
-                      What We Do
+                      services
                     </Nav.Link>
                   </li>
                   <li class="nav-item">
