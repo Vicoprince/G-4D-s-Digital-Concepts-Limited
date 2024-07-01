@@ -62,7 +62,6 @@ const Contact = () => {
             </nav>
           </div>
         </header>
-
         <ContactForm />
       </div>
       <Footer />

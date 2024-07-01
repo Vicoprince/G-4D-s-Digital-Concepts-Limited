@@ -65,12 +65,6 @@
 }
 
 @media (max-width: 576px) {
-  .navbar-brand span {
-    font-weight: bold;
-    font-size: 12px;
-    color: #ffffff;
-  }
-  
   .header_section .header_top .contact_nav a span {
     display: none;
   }
@@ -137,7 +131,17 @@
   }
 }
 
-@media (max-width: 376px) {}
+@media (max-width: 376px) {
+  .navbar {
+    width: 100%;
+    display: flex;
+    
+  }
+  .navbar-brand img {
+    height: 48px;
+    
+  }
+}
 
 @media (min-width: 1200px) {
   .container {

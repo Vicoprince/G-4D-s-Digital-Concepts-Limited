@@ -35,12 +35,17 @@ $textCol: #1f1f1f;
   font-weight: bold;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   @include main-font;
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
   text-align: justify;
+  width: 100%;
 }
 
 .layout_padding {
