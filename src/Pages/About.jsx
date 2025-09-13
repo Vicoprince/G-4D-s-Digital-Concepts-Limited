@@ -33,19 +33,16 @@ const About = () => {
                 <div class="detail-box">
                   <h3>We Are G & 4D's Digital Concepts Limited</h3>
                   <p>
-                    G & 4D's Digital Concepts Limited is an indigenous company
-                    legally registered with corporate affair commission (CAC)
-                    with the goal of assisting other businesses by offering
-                    tailored business support - we are proudly African, and our
-                    digital services are exceptional.
+                    G&4D's Digital Concepts Limited is a proudly African, indigenous company 
+                    duly incorporated with the Corporate Affairs Commission (CAC). 
+                    We specialize in providing tailored business support and innovative digital solutions 
+                    designed to help organizations thrive in today’s dynamic marketplace.
                   </p>
                   <p>
-                    Our primary responsibility is to assist businesses in
-                    embracing the digital era, utilizing cutting-edge
-                    technologies, and streamline her operations to increase
-                    productivity and competitiveness in the marketplace – we
-                    facilitate an organic growth of other businesses throughout
-                    their digital lifecycle.
+                    Our core mission is to empower businesses to fully embrace the digital era by leveraging 
+                    cutting-edge technologies, optimizing operations, and driving efficiency. From strategy to execution, 
+                    we guide enterprises through every stage of their digital journey, fostering sustainable growth, 
+                    competitiveness, and long-term impact.
                   </p>
                 </div>
               </div>
@@ -59,23 +56,24 @@ const About = () => {
               <div class="col-md-6">
                 <div class="detail-box">
                   <p>
-                    We leverage on our people, culture and experience - the
-                    least we could do for your company is to use our resources
-                    to directly position your (client) brands in front of their
-                    audiences. We have complete faith in our team to provide
-                    top-notch services. We are dedicated to providing our
-                    clients with nothing less than great service at all times,
-                    and always available to support. We employ a unique and
-                    inventive approach, consistently enhancing every aspect of
-                    our service offering.
+                    We leverage our people, culture, and experience 
+                    to position your brand directly in front of the 
+                    right audience. With complete confidence in our 
+                    team, we deliver top-notch services and remain 
+                    committed to providing nothing less than 
+                    excellence at all times.
                   </p>
                   <p>
-                    We hear you when you talk, and we respond appropriately;
-                    collaborating with clients to help them stay current in the
-                    digital business space. Let us be your growth partner as we
-                    assist other companies in starting their digital
-                    transformation journeys or improving the current digital
-                    framework within the organization.
+                    Our approach is unique and innovative, continuously 
+                    improving every aspect of our service offering to ensure 
+                    lasting impact. We listen attentively, respond thoughtfully, 
+                    and work collaboratively with our clients to keep them 
+                    ahead in today’s dynamic digital landscape.
+                  </p>
+                  <p>
+                    As your growth partner, we will support your digital 
+                    transformation journey whether you are just beginning 
+                    or seeking to optimize your existing digital framework.
                   </p>
                 </div>
               </div>
@@ -110,11 +108,10 @@ const About = () => {
                     <div class="detail-box">
                       <h5>Mission</h5>
                       <p>
-                        We strive to empower organizations to embrace and excel
-                        in the digital age by delivering innovative solutions
-                        that drive sustainable transformation, enhance
-                        efficiency, and create lasting value for all
-                        stakeholders.
+                        We are committed to empowering organizations to thrive in the 
+                        digital age by delivering innovative solutions that drive 
+                        sustainable transformation, enhance efficiency, and create 
+                        lasting value for all stakeholders
                       </p>
                     </div>
                   </div>
@@ -122,7 +119,7 @@ const About = () => {
                 <div class="col-md-6 ">
                   <div class="box ">
                     <div class="img-box">
-                      <img src="images/Vision.png" alt="Vision" />
+                      <img src="images/vision.png" alt="Vision" />
                     </div>
                     <div class="detail-box">
                       <h5>Vision</h5>

@@ -50,7 +50,8 @@ const ContactForm = () => {
           <div class="container">
             <h2>Contact Us</h2>
             <p>
-              We'd love to hear from you! Whether you have questions, feedback, or need assistance, please fill out the form below, and our team will get back to you as soon as possible.
+              We’d love to hear from you! Share your questions, feedback, 
+              or requests through the form below, and our team will respond promptly.
             </p>
           </div>
         </div>

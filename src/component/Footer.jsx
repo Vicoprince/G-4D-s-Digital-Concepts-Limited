@@ -76,8 +76,8 @@ const Footer = () => {
               <div class="info_detail">
                 <h4>Info</h4>
                 <p>
-                  We are dedicated to providing you with nothing less than great
-                  service at all times, and always available to support.
+                  We collaborate with clients, partners, and stakeholders 
+                  to co-create solutions and drive shared success.
                 </p>
               </div>
             </div>

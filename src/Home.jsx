@@ -146,10 +146,10 @@ const Home = () => {
                   <div class="detail-box">
                     <h5>Mission</h5>
                     <p>
-                      We strive to empower organizations to embrace and excel in
-                      the digital age by delivering innovative solutions that
-                      drive sustainable transformation, enhance efficiency, and
-                      create lasting value for all stakeholders.
+                      We are committed to empowering organizations to thrive in the 
+                      digital age by delivering innovative solutions that drive 
+                      sustainable transformation, enhance efficiency, and create 
+                      lasting value for all stakeholders.
                     </p>
                   </div>
                 </div>
@@ -157,7 +157,7 @@ const Home = () => {
               <div class="col-md-6 ">
                 <div class="box ">
                   <div class="img-box">
-                    <img src="images/Vision.png" alt="Vision" />
+                    <img src="images/vision.png" alt="Vision" />
                   </div>
                   <div class="detail-box">
                     <h5>Vision</h5>
